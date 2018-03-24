@@ -7,4 +7,3 @@ def my_each(array)
   array
 end
 
-puts array[i]
